@@ -1,0 +1,28 @@
+{
+  "name": "@mdenic/password-generator",
+  "version": "0.2.0",
+  "description": "Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markoDenic/password-generator.git"
+  },
+  "keywords": [
+    "password",
+    "passwords",
+    "generate",
+    "generator",
+    "generate password",
+    "password generator",
+    "password generate"
+  ],
+  "author": "Marko Denic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markoDenic/password-generator/issues"
+  },
+  "homepage": "https://freecodetools.org/password-generator/"
+}
