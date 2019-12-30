@@ -39,7 +39,7 @@ console.log(pass); // => "ZpfgmfLdw1RQ3wYgGFro" //string
 
 |            Name          |                  Type                       | Default Value |
 |--------------------------|---------------------------------------------|---------------|
-| length                   | String                                      |       16      |
-| numbers                  | String                                      |     false     |
-| symbols                  | String                                      |     false     |
-| uppercase                | String                                      |     false     |
+| length                   | Integer                                     |       16      |
+| numbers                  | Boolean                                     |     false     |
+| symbols                  | Boolean                                     |     false     |
+| uppercase                | Boolean                                     |     false     |
